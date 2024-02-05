@@ -1,4 +1,4 @@
-# Bengaluru House Proce Project
+# Bengaluru House Price Project
 Here is a description of the project:
 
 Importing Libraries: You started by importing essential libraries such as Pandas, NumPy, and Matplotlib.
